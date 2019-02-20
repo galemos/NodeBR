@@ -2,11 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b152744-b6ec-41ae-a430-dd23fd7af8e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-events/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/2.map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/UPGRADE_GUIDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/Cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/CancelToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/isCancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/Axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/InterceptorManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/createError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/dispatchRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/enhanceError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/settle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/transformData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/btoa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/buildURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/combineURLs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/deprecatedMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/isAbsoluteURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/isURLSameOrigin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/normalizeHeaderName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/parseHeaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/dist/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/https.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/test/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/service.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-nodejs-refactor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-nodejs-async-await/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-nodejs-refactor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-nodejs-async-await/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,10 +87,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-nodejs-async-await/index.js">
+        <entry file="file://$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+            <state relative-caret-position="476">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -34,7 +100,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="85">
-                <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+                <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
               </first_editor>
               <second_editor />
             </state>
@@ -42,10 +108,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05-events/index.js">
+        <entry file="file://$PROJECT_DIR$/06-lists/for-forin/2.map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -68,6 +134,9 @@
         <option value="$PROJECT_DIR$/03-nodejs-refactor/index.js" />
         <option value="$PROJECT_DIR$/04-nodejs-refactor/index.js" />
         <option value="$PROJECT_DIR$/05-events/index.js" />
+        <option value="$PROJECT_DIR$/06-lists/for-forin/service.js" />
+        <option value="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" />
+        <option value="$PROJECT_DIR$/06-lists/for-forin/2.map.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -132,7 +201,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.index.js (1)">
+  <component name="RunManager" selected="Node.js.2.map.js">
+    <configuration name="1.for-forin-foroff.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="2.map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/2.map.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="CursoNodeBR" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -148,17 +223,24 @@
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03-nodejs-promise/index.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="service.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/service.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.CursoNodeBR" />
       <item itemvalue="Node.js.index.js" />
       <item itemvalue="Node.js.index.js (1)" />
+      <item itemvalue="Node.js.service.js" />
+      <item itemvalue="Node.js.1.for-forin-foroff.js" />
+      <item itemvalue="Node.js.2.map.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.2.map.js" />
+        <item itemvalue="Node.js.1.for-forin-foroff.js" />
+        <item itemvalue="Node.js.service.js" />
         <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -175,11 +257,12 @@
       <workItem from="1550573444148" duration="4946000" />
       <workItem from="1550590148248" duration="3949000" />
       <workItem from="1550663493830" duration="2012000" />
+      <workItem from="1550677706656" duration="2503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10907000" />
+    <option name="totallyTimeSpent" value="13410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
@@ -235,15 +318,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04-nodejs-async-await/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
+        <state relative-caret-position="799">
           <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05-events/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="459">
           <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/2.map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -251,7 +355,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="85">
-            <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+            <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
           </first_editor>
           <second_editor />
         </state>

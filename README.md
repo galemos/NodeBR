@@ -3,7 +3,7 @@ Curso do NodeBR
 
 * Módulo 0(OK): Concluído 
 * Módulo 1(N.OK) : Concluído 
-* Módulo 2(N.OK) : Manipulando listas com For/ForIn/ForOf
+* Módulo 2(N.OK) : Criando nosso proprio Array.Filter
 * Módulo 3(N.OK) : Não Iniciado 
 * Módulo 4(N.OK)  : Não Iniciado
 * Módulo 5(N.OK) : Não Iniciado 
