@@ -2,78 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b152744-b6ec-41ae-a430-dd23fd7af8e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/2.map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/UPGRADE_GUIDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/Cancel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/CancelToken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/isCancel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/Axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/InterceptorManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/createError.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/dispatchRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/enhanceError.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/settle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/transformData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/defaults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/bind.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/btoa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/buildURL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/combineURLs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/cookies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/deprecatedMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/isAbsoluteURL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/isURLSameOrigin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/normalizeHeaderName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/parseHeaders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/spread.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/dist/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/https.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/test/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/3.filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-lists/for-forin/4.reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-testes/01/services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-testes/01/testes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -87,31 +20,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js">
+        <entry file="file://$PROJECT_DIR$/06-lists/for-forin/4.reduce.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="85">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-lists/for-forin/2.map.js">
+        <entry file="file://$PROJECT_DIR$/07-testes/01/testes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-testes/01/services.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -138,6 +68,10 @@
         <option value="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" />
         <option value="$PROJECT_DIR$/06-lists/for-forin/2.map.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/06-lists/for-forin/3.filter.js" />
+        <option value="$PROJECT_DIR$/06-lists/for-forin/4.reduce.js" />
+        <option value="$PROJECT_DIR$/07-testes/01/testes.js" />
+        <option value="$PROJECT_DIR$/07-testes/01/services.js" />
       </list>
     </option>
   </component>
@@ -161,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,11 +103,21 @@
               <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
+              <item name="07-testes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
+              <item name="07-testes" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,46 +146,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.2.map.js">
+  <component name="RunManager" selected="Node.js.testes.js">
     <configuration name="1.for-forin-foroff.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="2.map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/2.map.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="3.filter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/3.filter.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="4.reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/4.reduce.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="CursoNodeBR" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/05-events/index.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/02-nodejs/index.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04-nodejs-async-await/index.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03-nodejs-promise/index.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="service.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/service.js" working-dir="$PROJECT_DIR$">
+    <configuration name="testes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/07-testes/01/testes.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.CursoNodeBR" />
-      <item itemvalue="Node.js.index.js" />
-      <item itemvalue="Node.js.index.js (1)" />
-      <item itemvalue="Node.js.service.js" />
       <item itemvalue="Node.js.1.for-forin-foroff.js" />
       <item itemvalue="Node.js.2.map.js" />
+      <item itemvalue="Node.js.3.filter.js" />
+      <item itemvalue="Node.js.4.reduce.js" />
+      <item itemvalue="Node.js.testes.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.testes.js" />
+        <item itemvalue="Node.js.4.reduce.js" />
+        <item itemvalue="Node.js.3.filter.js" />
         <item itemvalue="Node.js.2.map.js" />
         <item itemvalue="Node.js.1.for-forin-foroff.js" />
-        <item itemvalue="Node.js.service.js" />
-        <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Node.js.index.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -258,16 +200,19 @@
       <workItem from="1550590148248" duration="3949000" />
       <workItem from="1550663493830" duration="2012000" />
       <workItem from="1550677706656" duration="2503000" />
+      <workItem from="1550747944985" duration="2393000" />
+      <workItem from="1550764754616" duration="1933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13410000" />
+    <option name="totallyTimeSpent" value="17736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,7 +224,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -337,20 +282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/2.map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -358,6 +289,48 @@
             <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/2.map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/3.filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-lists/for-forin/4.reduce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-testes/01/testes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-testes/01/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
