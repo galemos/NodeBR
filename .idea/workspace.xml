@@ -2,6 +2,198 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b152744-b6ec-41ae-a430-dd23fd7af8e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/02-nodejs/index-async-wait.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-nodejs/index-promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-events/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-events/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/1.for-forin-foroff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/2.map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/3.filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/4.reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/UPGRADE_GUIDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/dist/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/dist/axios.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/dist/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/dist/axios.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/adapters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/adapters/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/adapters/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/cancel/Cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/cancel/CancelToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/cancel/isCancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/Axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/InterceptorManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/createError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/dispatchRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/enhanceError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/settle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/core/transformData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/btoa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/buildURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/combineURLs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/deprecatedMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/isAbsoluteURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/isURLSameOrigin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/normalizeHeaderName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/parseHeaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/helpers/spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/axios/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/dist/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/src/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/follow-redirects/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/follow-redirects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/follow-redirects/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/follow-redirects/https.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/follow-redirects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/is-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/is-buffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/is-buffer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/is-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/is-buffer/test/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/ms/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/node_modules/ms/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-lists/for-forin/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-cli/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-cli/herois.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-cli/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-nodejs-promise/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-nodejs-promise/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-nodejs-async-await/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-nodejs-async-await/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-events/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-events/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/2.map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/3.filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/4.reduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/UPGRADE_GUIDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/dist/axios.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/adapters/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/Cancel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/CancelToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/cancel/isCancel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/Axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/InterceptorManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/createError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/dispatchRequest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/enhanceError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/settle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/core/transformData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/bind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/btoa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/buildURL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/combineURLs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/cookies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/deprecatedMethod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/isAbsoluteURL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/isURLSameOrigin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/normalizeHeaderName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/parseHeaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/helpers/spread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/axios/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/dist/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/follow-redirects/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/is-buffer/test/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-lists/for-forin/service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/debug/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/debug/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/debug/dist/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/debug/src/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/debug/src/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/debug/src/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/debug/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/debug/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/debug/src/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/debug/src/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/expand-brackets/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/expand-brackets/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/expand-brackets/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/expand-brackets/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/homedir-polyfill/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/homedir-polyfill/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/cli/run-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/cli/run-helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/cli/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/cli/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/interfaces/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/interfaces/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/mocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/lib/mocha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/mocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/mocha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/mocha/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/node_modules/ms/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/snapdragon/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/snapdragon/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/snapdragon/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/node_modules/snapdragon/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-testes/01/testes.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-testes/01/tests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,28 +208,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-lists/for-forin/4.reduce.js">
+        <entry file="file://$PROJECT_DIR$/06-cli/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-testes/01/testes.js">
+        <entry file="file://$PROJECT_DIR$/06-cli/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="272">
+              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-testes/01/services.js">
+        <entry file="file://$PROJECT_DIR$/06-cli/database.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="224">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -46,8 +238,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+              <first_editor relative-caret-position="204">
+                <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -78,7 +270,17 @@
         <option value="$PROJECT_DIR$/06-lists/for-forin/3.filter.js" />
         <option value="$PROJECT_DIR$/06-lists/for-forin/4.reduce.js" />
         <option value="$PROJECT_DIR$/07-testes/01/testes.js" />
+        <option value="$PROJECT_DIR$/07-testes/01/package.json" />
+        <option value="$PROJECT_DIR$/07-testes/01/package-lock.json" />
         <option value="$PROJECT_DIR$/07-testes/01/services.js" />
+        <option value="$PROJECT_DIR$/07-testes/01/tests.js" />
+        <option value="$PROJECT_DIR$/06-cli/tests.js" />
+        <option value="$PROJECT_DIR$/06-cli/package.json" />
+        <option value="$PROJECT_DIR$/06-cli/service.js" />
+        <option value="$PROJECT_DIR$/06-cli/herois.js" />
+        <option value="$PROJECT_DIR$/06-cli/herois.json" />
+        <option value="$PROJECT_DIR$/06-cli/database.js" />
+        <option value="$PROJECT_DIR$/06-cli/test.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -103,7 +305,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,24 +315,20 @@
             <path>
               <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="07-testes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="07-testes" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="06-cli" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/06-cli" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/06-cli/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -154,13 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.testes.js">
-    <configuration name="1.for-forin-foroff.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/1.for-forin-foroff.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="2.map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/2.map.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Mocha.Suite de manipulação de Heróis">
     <configuration name="3.filter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-lists/for-forin/3.filter.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -170,27 +361,65 @@
     <configuration name="CursoNodeBR" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03-nodejs-promise/index.js" working-dir="$PROJECT_DIR$">
+    <configuration name="tests.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/07-testes/01/tests.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="testes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/07-testes/01/testes.js" working-dir="$PROJECT_DIR$">
+    <configuration name="06-cli" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/07-testes/01/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/06-cli</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <configuration name="06-cli\test.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/06-cli/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/06-cli/test.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="Suite de manipulação de Heróis" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/06-cli/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/06-cli/test.js</test-file>
+      <test-names>
+        <name value="Suite de manipulação de Heróis" />
+      </test-names>
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Mocha.06-cli" />
       <item itemvalue="Node.js.CursoNodeBR" />
-      <item itemvalue="Node.js.1.for-forin-foroff.js" />
-      <item itemvalue="Node.js.2.map.js" />
       <item itemvalue="Node.js.3.filter.js" />
       <item itemvalue="Node.js.4.reduce.js" />
-      <item itemvalue="Node.js.testes.js" />
+      <item itemvalue="Node.js.tests.js" />
+      <item itemvalue="Mocha.06-cli\test.js" />
+      <item itemvalue="Mocha.Suite de manipulação de Heróis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.testes.js" />
+        <item itemvalue="Mocha.Suite de manipulação de Heróis" />
+        <item itemvalue="Mocha.06-cli\test.js" />
+        <item itemvalue="Node.js.tests.js" />
         <item itemvalue="Node.js.4.reduce.js" />
         <item itemvalue="Node.js.3.filter.js" />
-        <item itemvalue="Node.js.2.map.js" />
-        <item itemvalue="Node.js.1.for-forin-foroff.js" />
       </list>
     </recent_temporary>
   </component>
@@ -209,16 +438,48 @@
       <workItem from="1550663493830" duration="2012000" />
       <workItem from="1550677706656" duration="2503000" />
       <workItem from="1550747944985" duration="2393000" />
-      <workItem from="1550764754616" duration="2304000" />
+      <workItem from="1550764754616" duration="2909000" />
+      <workItem from="1550834517453" duration="4502000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="07-testes_01 - 2019.02.22 at 08h 53m 52s.xml">
+      <configuration name="07-testes\01" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="07-testes_01 - 2019.02.22 at 08h 56m 57s.xml">
+      <configuration name="07-testes\01" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="07-testes_01 - 2019.02.22 at 09h 05m 00s.xml">
+      <configuration name="07-testes\01" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="07-testes_01 - 2019.02.22 at 09h 06m 08s.xml">
+      <configuration name="07-testes\01" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="07-testes_01 - 2019.02.22 at 09h 07m 28s.xml">
+      <configuration name="07-testes\01" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="07-testes_01 - 2019.02.22 at 09h 07m 36s.xml">
+      <configuration name="07-testes\01" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="06-cli - 2019.02.22 at 09h 18m 06s.xml">
+      <configuration name="06-cli" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="06-cli_test_js - 2019.02.22 at 09h 18m 47s.xml">
+      <configuration name="06-cli\test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Suite_de_manipulação_de_Heróis - 2019.02.22 at 09h 33m 06s.xml">
+      <configuration name="Suite de manipulação de Heróis" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Suite_de_manipulação_de_Heróis - 2019.02.22 at 09h 33m 21s.xml">
+      <configuration name="Suite de manipulação de Heróis" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18107000" />
+    <option name="totallyTimeSpent" value="23214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,7 +493,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,25 +579,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-testes/01/testes.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/util/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="-1020">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-testes/01/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="2177" selection-start-line="2177" selection-end-line="2177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-testes/01/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07-testes/01/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-testes/01/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-cli/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-cli/herois.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-cli/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-cli/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
