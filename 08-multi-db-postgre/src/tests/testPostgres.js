@@ -16,11 +16,12 @@ const MOCK_HEROI_ATUALIZAR = {
 
 describe('Postgress CRUD tests', function () {
     this.timeout(Infinity);
+
     this.beforeAll(async function () {
         await context.delete();
         await context.create(MOCK_HEROI_CADASTRAR);
         await context.create(MOCK_HEROI_ATUALIZAR);
-    })
+    });
 
     it('Connection', async function (){
         const result = await context.isConnected();
