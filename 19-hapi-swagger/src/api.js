@@ -24,7 +24,7 @@ async function main() {
     const context = new Context(new MongoDB(connection, HeroiSchema));
     const swaggerOptions = {
         info: {
-            info: 'API herois - #CursoNodeBR',
+            title: 'API herois - #CursoNodeBR',
             version: 'v1.0'
         },
         lang: 'pt'
