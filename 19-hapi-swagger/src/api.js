@@ -22,10 +22,30 @@ function mapRoutes(instance, methods){
 async function main() {
     const connection = MongoDB.connect();
     const context = new Context(new MongoDB(connection, HeroiSchema));
+    const swaggerOptions = {
+        info: {
+            info: 'API herois - #CursoNodeBR',
+            version: 'v1.0'
+        },
+        lang: 'pt'
+    };
+
     await app.register([
         Vision,
         Inert,
         {
             plugin: HappiSwagger,
-            options: 
-    
+            options: swaggerOptions
+        }
+    ]);
+
+    app.route(
+       mapRoutes(new HeroRoute(context), HeroRoute.methods()));
+
+    await app.start();
+    console.log('Servidor rodando na porta: ', app.info.port);
+
+    return app;
+}
+
+module.exports = main();
