@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b152744-b6ec-41ae-a430-dd23fd7af8e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-hapi-cadastrar/src/routes/heroRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/16-hapi-cadastrar/src/routes/heroRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-hapi-atualizar/src/routes/heroRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/17-hapi-atualizar/src/routes/heroRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-hapi-atualizar/src/tests/testApiHerois.js" beforeDir="false" afterPath="$PROJECT_DIR$/17-hapi-atualizar/src/tests/testApiHerois.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,21 +16,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/18-hapi-deletar/src/tests/testApiHerois.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="159" column="36" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/18-hapi-deletar/src/routes/heroRoutes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="73" column="38" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/19-hapi-swagger/src/routes/heroRoutes.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -142,43 +126,33 @@
             <path>
               <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="17-hapi-atualizar" type="462c0819:PsiDirectoryNode" />
+              <item name="19-hapi-swagger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="17-hapi-atualizar" type="462c0819:PsiDirectoryNode" />
+              <item name="19-hapi-swagger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="17-hapi-atualizar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="18-hapi-deletar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="18-hapi-deletar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="18-hapi-deletar" type="462c0819:PsiDirectoryNode" />
+              <item name="19-hapi-swagger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
-              <item name="18-hapi-deletar" type="462c0819:PsiDirectoryNode" />
+              <item name="19-hapi-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeBR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeBR" type="462c0819:PsiDirectoryNode" />
+              <item name="19-hapi-swagger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -192,7 +166,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/06-cli" />
-    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/18-hapi-deletar/node_modules/mocha" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/19-hapi-swagger/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -224,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.18-hapi-deletar\src\tests\testApiHerois.js">
+  <component name="RunManager" selected="Mocha.19-hapi-swagger\src\tests\testApiHerois.js">
     <configuration name="CursoNodeBR" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -241,18 +215,6 @@
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
-    <configuration name="17-hapi-atualizar\src\tests\testApiHerois.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/17-hapi-atualizar/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/17-hapi-atualizar/src/tests/testApiHerois.js</test-file>
-      <method v="2" />
-    </configuration>
     <configuration name="18-hapi-deletar\src\tests\testApiHerois.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -263,18 +225,6 @@
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/18-hapi-deletar/src/tests/testApiHerois.js</test-file>
-      <method v="2" />
-    </configuration>
-    <configuration name="18-hapi-deletar\src\tests\testMongoDB.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/18-hapi-deletar/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/18-hapi-deletar/src/tests/testMongoDB.js</test-file>
       <method v="2" />
     </configuration>
     <configuration name="18-hapi-deletar\src\tests\testPostgres.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
@@ -289,38 +239,58 @@
       <test-file>$PROJECT_DIR$/18-hapi-deletar/src/tests/testPostgres.js</test-file>
       <method v="2" />
     </configuration>
-    <configuration name="Suite de testes da API Herois.PATCH atualizar - /herois/:id" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+    <configuration name="19-hapi-swagger\src\tests\testApiHerois.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>$PROJECT_DIR$/17-hapi-atualizar/node_modules/mocha</mocha-package>
+      <mocha-package>$PROJECT_DIR$/19-hapi-swagger/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
       <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/17-hapi-atualizar/src/tests/testApiHerois.js</test-file>
-      <test-names>
-        <name value="Suite de testes da API Herois" />
-        <name value="PATCH atualizar - /herois/:id" />
-      </test-names>
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/19-hapi-swagger/src/tests/testApiHerois.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="19-hapi-swagger\src\tests\testMongoDB.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/19-hapi-swagger/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/19-hapi-swagger/src/tests/testMongoDB.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="19-hapi-swagger\src\tests\testPostgres.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/19-hapi-swagger/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/19-hapi-swagger/src/tests/testPostgres.js</test-file>
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Mocha.06-cli" />
-      <item itemvalue="Mocha.17-hapi-atualizar\src\tests\testApiHerois.js" />
-      <item itemvalue="Node.js.CursoNodeBR" />
-      <item itemvalue="Mocha.Suite de testes da API Herois.PATCH atualizar - /herois/:id" />
-      <item itemvalue="Mocha.18-hapi-deletar\src\tests\testMongoDB.js" />
       <item itemvalue="Mocha.18-hapi-deletar\src\tests\testPostgres.js" />
       <item itemvalue="Mocha.18-hapi-deletar\src\tests\testApiHerois.js" />
+      <item itemvalue="Node.js.CursoNodeBR" />
+      <item itemvalue="Mocha.19-hapi-swagger\src\tests\testPostgres.js" />
+      <item itemvalue="Mocha.19-hapi-swagger\src\tests\testMongoDB.js" />
+      <item itemvalue="Mocha.19-hapi-swagger\src\tests\testApiHerois.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Mocha.19-hapi-swagger\src\tests\testApiHerois.js" />
+        <item itemvalue="Mocha.19-hapi-swagger\src\tests\testMongoDB.js" />
+        <item itemvalue="Mocha.19-hapi-swagger\src\tests\testPostgres.js" />
         <item itemvalue="Mocha.18-hapi-deletar\src\tests\testApiHerois.js" />
         <item itemvalue="Mocha.18-hapi-deletar\src\tests\testPostgres.js" />
-        <item itemvalue="Mocha.18-hapi-deletar\src\tests\testMongoDB.js" />
-        <item itemvalue="Mocha.17-hapi-atualizar\src\tests\testApiHerois.js" />
-        <item itemvalue="Mocha.Suite de testes da API Herois.PATCH atualizar - /herois/:id" />
       </list>
     </recent_temporary>
   </component>
@@ -356,19 +326,11 @@
       <workItem from="1552305347877" duration="14576000" />
       <workItem from="1552405340230" duration="4750000" />
       <workItem from="1552442539242" duration="6532000" />
+      <workItem from="1552473078228" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="18-hapi-deletar_src_tests_testApiHerois_js - 2019.03.13 at 00h 40m 09s.xml">
-      <configuration name="18-hapi-deletar\src\tests\testApiHerois.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="18-hapi-deletar_src_tests_testApiHerois_js - 2019.03.13 at 00h 40m 35s.xml">
-      <configuration name="18-hapi-deletar\src\tests\testApiHerois.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="18-hapi-deletar_src_tests_testApiHerois_js - 2019.03.13 at 00h 40m 48s.xml">
-      <configuration name="18-hapi-deletar\src\tests\testApiHerois.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="18-hapi-deletar_src_tests_testApiHerois_js - 2019.03.13 at 00h 41m 11s.xml">
       <configuration name="18-hapi-deletar\src\tests\testApiHerois.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -390,14 +352,24 @@
     <history-entry file="18-hapi-deletar_src_tests_testApiHerois_js - 2019.03.13 at 00h 49m 56s.xml">
       <configuration name="18-hapi-deletar\src\tests\testApiHerois.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="19-hapi-swagger_src_tests_testPostgres_js - 2019.03.13 at 07h 55m 21s.xml">
+      <configuration name="19-hapi-swagger\src\tests\testPostgres.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="19-hapi-swagger_src_tests_testMongoDB_js - 2019.03.13 at 07h 55m 24s.xml">
+      <configuration name="19-hapi-swagger\src\tests\testMongoDB.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="19-hapi-swagger_src_tests_testApiHerois_js - 2019.03.13 at 07h 55m 26s.xml">
+      <configuration name="19-hapi-swagger\src\tests\testApiHerois.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125049000" />
+    <option name="totallyTimeSpent" value="125872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1304" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.20616114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.20616114" />
       <window_info id="Structure" order="1" sideWeight="0.50238097" side_tool="true" weight="0.20616114" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
@@ -423,13 +395,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06-cli/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-multi-db-postgre/src/tests/testPostgres.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -762,6 +727,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/18-hapi-deletar/src/tests/testApiHerois.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="159" column="36" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/18-hapi-deletar/src/routes/heroRoutes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -769,12 +741,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18-hapi-deletar/src/tests/testApiHerois.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="159" column="36" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/19-hapi-swagger/src/routes/heroRoutes.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
