@@ -19,9 +19,9 @@ describe('Suite de testes da API Herois', function () {
         const result = await app.inject({
             method: 'POST',
             url: `/herois`,
-            payload: MOCK_BASE
+            payload: JSON.stringify(MOCK_BASE)
         });
-        const dados = JSON.parse(result.payload)
+        const dados = JSON.parse(result.payload);
         MOCK_ID = dados._id;
     });
 
@@ -103,7 +103,29 @@ describe('Suite de testes da API Herois', function () {
         const _id = MOCK_ID;
 
         const expected = {
-            poder:'Water Bomb'
+            poder: 'Water Bomb'
+        };
+
+        const result = await app.inject({
+            method: 'PATCH',
+            url: `/herois/${_id}`,
+            payload: JSON.stringify(expected)
+        });
+
+        const statusCode =  result.statusCode;
+        //console.log('statusCode', statusCode);
+        const dados = JSON.parse(result.payload);
+        //console.log('dados', dados);
+
+        assert.ok(statusCode === 200);
+        assert.deepEqual(dados.message, 'Heroi Atualizado com Sucesso!')
+    });
+
+    it('PATCH atualizar - /herois/:id - não deve atualizar com id incorreto', async ()=>{
+        const _id = `5c86df4bb7f1d9336cc0d562`;
+
+        const expected = {
+            poder: 'Water Bomb'
         };
 
         const result = await app.inject({
@@ -114,8 +136,8 @@ describe('Suite de testes da API Herois', function () {
 
         const statusCode =  result.statusCode;
         const dados = JSON.parse(result.payload);
-        console.log(' status', statusCode)
+
         assert.ok(statusCode === 200);
-        assert.deepStrictEqual(dados.message, 'Heroi Atualizado com Sucesso!')
+        assert.deepEqual(dados.message, 'Não foi possível atualizar!')
     });
 });
