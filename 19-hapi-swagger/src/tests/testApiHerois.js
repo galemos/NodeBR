@@ -71,7 +71,7 @@ describe('Suite de testes da API Herois', function () {
     });
 
     it('GET Listar /herois - deve filtrar um item', async ()=>{
-        const NOME = 'Oliver Queen'
+        const NOME = MOCK_BASE.nome;
         const result = await app.inject({
             method: 'GET',
             url: `/herois?skip=0&limit=100&nome=${NOME}`
