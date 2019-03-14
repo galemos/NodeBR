@@ -1,9 +1,12 @@
 const assert = require('assert');
 const api = require('./../api');
+const context = require('./../db/strategies/base/contextStrategy');
+const PostgresSQL = require('./../db/strategies/postgres/postgres');
+const UserSchema = require('./../db/strategies/postgres/schemas/userSchema');
+
+const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImdhYmxlbW9zIiwiaWQiOjEsImlhdCI6MTU1MjU4MDU5NH0.JeYUvjkPWivVU0gn3a5Dm-Y1bRjcl8bVb_5HaZbRkSs";
 
 let app= {};
-
-const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImdhYmxlbW9zIiwiaWQiOjEsImlhdCI6MTU1MjQ5NDMwOH0.uT8BI3PMBHuoh6E503Ab1y2JRkmCzFpCe7pMWL7GnZ4";
 
 describe('Auth teste suit', function (){
     this.beforeAll(async () =>{
@@ -23,7 +26,7 @@ describe('Auth teste suit', function (){
         const statusCode = result.statusCode;
 
         const dados = JSON.parse(result.payload);
-
+        console.log(`${dados.token}\n`)
         assert.deepStrictEqual(statusCode, 200);
         assert.ok(dados.token.length > 10);
     });
