@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b152744-b6ec-41ae-a430-dd23fd7af8e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/21-hapi-user-validation/src/db/strategies/postgres/schemas/userSchema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-hapi-user-validation/src/helpers/passwordHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-hapi-user-validation/src/tests/testPasswordHelper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21-hapi-user-validation/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/21-hapi-user-validation/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21-hapi-user-validation/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/21-hapi-user-validation/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21-hapi-user-validation/src/tests/testAuthHeroes.js" beforeDir="false" afterPath="$PROJECT_DIR$/21-hapi-user-validation/src/tests/testAuthHeroes.js" afterDir="false" />
-    </list>
+    <list default="true" id="8b152744-b6ec-41ae-a430-dd23fd7af8e3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/21-hapi-user-validation/src/tests/testAuthHeroes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -306,12 +298,12 @@
     </configuration>
     <list>
       <item itemvalue="Mocha.06-cli" />
-      <item itemvalue="Node.js.CursoNodeBR" />
       <item itemvalue="Mocha.21-hapi-user-validation\src\tests\testPasswordHelper.js" />
       <item itemvalue="Mocha.21-hapi-user-validation\src\tests\testAuthHeroes.js" />
       <item itemvalue="Mocha.21-hapi-user-validation\src\tests\testPostgres.js" />
       <item itemvalue="Mocha.21-hapi-user-validation\src\tests\testMongoDB.js" />
       <item itemvalue="Mocha.21-hapi-user-validation\src\tests\testApiHerois.js" />
+      <item itemvalue="Node.js.CursoNodeBR" />
     </list>
     <recent_temporary>
       <list>
@@ -361,6 +353,7 @@
       <workItem from="1552508108250" duration="2723000" />
       <workItem from="1552565406318" duration="1153000" />
       <workItem from="1552579516056" duration="1564000" />
+      <workItem from="1552595546477" duration="1083000" />
     </task>
     <servers />
   </component>
@@ -397,12 +390,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139466000" />
+    <option name="totallyTimeSpent" value="140549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.21719956" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.21940464" />
       <window_info id="Structure" order="1" sideWeight="0.50238097" side_tool="true" weight="0.20616114" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
@@ -793,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/21-hapi-user-validation/src/tests/testAuthHeroes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
