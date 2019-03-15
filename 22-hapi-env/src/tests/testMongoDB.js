@@ -23,6 +23,7 @@ let MOCK_HEROI_ID = '';
 let context = {};
 
 describe('MongoDB CRUD tests', function () {
+    this.timeout(Infinity);
 
     this.beforeAll(async ()=>{
         const connetion = MongoDB.connect();

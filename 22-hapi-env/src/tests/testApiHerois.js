@@ -25,8 +25,6 @@ describe('Suite de testes da API Herois', function () {
     this.beforeAll(async ()=>{
         app = await api;
 
-        console.log(`${process.env.SALT_PWD}`)
-
         const result = await app.inject({
             method: 'POST',
             url: `/herois`,

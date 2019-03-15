@@ -8,10 +8,8 @@ class Postgres extends ICrud{
         this._schema = schema;
     }
 
-
-
 static async connect(){
-        const connection = new Sequelize(process.env.POSTGRESSQL_URL,{
+        const connection = new Sequelize(process.env.POSTGRES_URL,{
             operatorsAliases: false, //desabilita deprecated
             logging: false, //desabilita log de conexão
             quoteIdentifiers: false, //desabilita case sensitive

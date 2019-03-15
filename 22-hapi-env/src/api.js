@@ -3,7 +3,7 @@
 //npm i vision inert hapi-swagger
 //npm i hapi-auth-jwt2
 //npm i dotenv
-const dev = require('./config/.env.dev')
+
 const {config} = require('dotenv');
 const {join} = require('path');
 const {ok} = require('assert');

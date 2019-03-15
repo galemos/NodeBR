@@ -16,7 +16,7 @@ const MOCK_HEROI_ATUALIZAR = {
 let context = {};
 
 describe('Postgress CRUD tests', function () {
-    this.timeout(Infinity);
+
 
     this.beforeAll(async function () {
         console.log(process.env.PORT);

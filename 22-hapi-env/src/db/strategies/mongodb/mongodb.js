@@ -1,5 +1,6 @@
 const ICrud = require('../interfaces/interfaceCrud');
 const Mongoose = require('mongoose');
+const { MONGO_USER, MONGO_PWD, MONGO_HOST, MONGO_PORT, MONGO_DB } = process.env;
 const STATUS ={
     0: 'Disconectado',
     1: 'Conectado',
@@ -15,7 +16,7 @@ class MongoDB extends ICrud{
     }
 
     static connect(){
-        Mongoose.connect(process.env.MONGODB_URL.toString(),
+        Mongoose.connect(`mongodb://${MONGO_USER}:${MONGO_PWD}@${MONGO_HOST}:${MONGO_PORT}/${MONGO_DB}`,
             {useNewUrlParser: true}, function (error) {
                 if(error){
                     console.log('Falha na conexão', error)
