@@ -14,4 +14,3 @@ describe('UserHelper test suit', function () {
         const result = await PasswordHelper.comparePassword(SENHA, HASH)
         assert.ok(result);
     });
-});
