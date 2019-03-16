@@ -20,7 +20,7 @@ describe('Auth teste suit', function (){
     this.beforeAll(async () =>{
         const { MONGO_USER, MONGO_PWD, MONGO_HOST, MONGO_PORT, MONGO_DB, MONGO_URL } = process.env;
         console.log(`mongodb://${MONGO_USER}:${MONGO_PWD}@${MONGO_HOST}:${MONGO_PORT}/${MONGO_DB}`);
-        condole.log(MONGO_URL)
+        console.log(typeof MONGO_URL)
 
        app = await api;
        const connectionPostgres = await PostgresSQL.connect();
