@@ -1,0 +1,10 @@
+-------------------- HEROKU ----------------------
+heroku login //logar no heroku
+heroku apps:list //listar apps no heroku
+heroku apps:create cursonodebr-gablemos //cria um app e a url é baseada no nome dado
+heroku git:remote --app cursonodebr-gablemos
+
+---------------------- GIT -----------------------
+git romote --
+
+
